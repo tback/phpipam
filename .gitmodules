@@ -6,3 +6,6 @@
 [submodule "functions/PHPMailer"]
 	path = functions/PHPMailer
 	url = https://github.com/PHPMailer/PHPMailer.git
+[submodule "functions/oauth2-client"]
+	path = functions/oauth2-client
+	url = https://github.com/thephpleague/oauth2-client
